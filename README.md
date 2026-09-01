@@ -1,14 +1,21 @@
+## Repository structure
+
+```text
 broken/
-├── gromacs_gpu.slurm
+└── gromacs_gpu.slurm
+
 copylogs/
-├── copylogs.slurm
+└── copylogs.slurm
+
 iwontruns/
 ├── iwontrun_1.slurm
 ├── iwontrun_2.slurm
 ├── iwontrun_3.slurm
 └── iwontrun_4.slurm
+
 modules/
-├── addmodule.slurm
+└── addmodule.slurm
+```
 
 ### Broken GROMACS job
 
